@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 import sys
+import pandas as np
 hello
 =======
 print(hello)

@@ -7,6 +7,7 @@ print(hello)
 >>>>>>> 9cea0a25b869a1f05b64cf650fe529e680650829
 x=8
 
+z=1
 y=x+1
 
 print(y)

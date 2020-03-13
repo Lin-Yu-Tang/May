@@ -1,4 +1,8 @@
 I am Mike
+<<<<<<< HEAD
 
 
 I am Tom
+=======
+I am github
+>>>>>>> c816dceae14b4619bd9e4669cf8d4ac4710f1e55
